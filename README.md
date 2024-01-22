@@ -10,39 +10,56 @@ For use of the OpenAI-Automation platform.
 To view the connection agreement, please visit the official website www.openai-automation.com
 
 
-INPUT/ARDUINO PIN
+INPUT / ARDUINO PIN
 
 
-   0    A0
+   0  /  A0
 
 
-   1    A1
+   1  /  A1
 
 
-   2    A2
+   2  /  A2
 
 
-   3    A3
+   3  /  A3
 
 
-   4    A4
+   4  /  A4
 
 
-   5    A5
+   5  /  A5
 
 
-   6    2
+   6  /  2
 
 
-   7    3
+   7  /  3
 
 
-OUTPUT/ARDUINO PIN
-   0    4
-   1    5
-   2    6
-   3    7
-   4    8
-   5    9
-   6    10
-   7    11
+
+OUTPUT / ARDUINO PIN
+
+
+   0  /  4
+
+
+   1  /  5
+
+
+   2  /  6
+
+
+   3  /  7
+
+
+   4  /  8
+
+
+   5  /  9
+
+
+   6  /  10
+
+
+   7  /  11
