@@ -10,7 +10,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Automation_AunoC1   KEYWORD1
+Automation_AunoC1	KEYWORD1
 
 # Methods and Functions (KEYWORD2)
 
