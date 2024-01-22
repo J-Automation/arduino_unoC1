@@ -1,9 +1,9 @@
 Configuration library for an Arduino Uno / ATMEGA 328p
-Configuration C1 (8 inputs, 8 outputs)
+Configuration C1 (8 inputs, 8 outputs).
 For use of the OpenAI-Automation platform.
 To view the connection agreement, please visit the official website www.openai-automation.com
 
-INPUT/ARDUINO PIN
+ INPUT/ARDUINO PIN
    0    A0
    1    A1
    2    A2
@@ -13,7 +13,7 @@ INPUT/ARDUINO PIN
    6    2
    7    3
 
-OUTPUT/ARDUINO PIN
+ OUTPUT/ARDUINO PIN
    0    4
    1    5
    2    6
